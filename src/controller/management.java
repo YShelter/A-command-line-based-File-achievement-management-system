@@ -1,7 +1,6 @@
 package controller;
 import service.*;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 import static service.EncoderFile.encrypt;
